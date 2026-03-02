@@ -6,7 +6,7 @@ Jednoduchý web s tématikou anime vytvořený pomocí HTML a CSS.
 
 Projekt obsahuje dva soubory:
 
-- `index.html` – hlavní HTML soubor strukturu webu
+- `index.html` – hlavní HTML soubor pro strukturu webu
 - `design.css` – stylování webu pomocí CSS
 
 ## 🔗 Propojení souborů
